@@ -1,3 +1,4 @@
+REMOTE
 # exo-merge
 exo merge github 5
 Salut ca va
